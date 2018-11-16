@@ -1,0 +1,28 @@
+{
+  "name": "exconfig",
+  "version": "0.0.1",
+  "description": "Configuration module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ttf test"
+  },
+  "author": "Gregoire Lejeune <gregoire.lejeune@free.fr>",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/G-Corp/exconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/G-Corp/exconfig/issues/"
+  },
+  "homepage": "https://github.com/G-Corp/exconfig",
+  "directories": {
+    "test": "./test"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "devDependencies": {
+    "ttf": "0.0.1"
+  }
+}
